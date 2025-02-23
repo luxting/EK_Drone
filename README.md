@@ -1,10 +1,4 @@
-# **【东北大学REAL实验室】自主无人机组装教程** 
-
-Github链接 [REAL_DRONE_400](https://github.com/NEU-REAL/REAL_DRONE_400/) An open source Drone Suite for Aerial Robot.
-
-本文档是视频教程[【东北大学REAL实验室】自主无人机组装教学视频](https://www.bilibili.com/video/BV1hC411H7rh/)的配套文档
-
-实验室主页 [东北大学REAL-LAB 环境感知与自主导航实验室](http://faculty.neu.edu.cn/fangzheng/zh_CN/zdylm/262140/list/index.htm)
+# **Ek_Drone** 
 
   <div align=center>
   <img src="misc/单机图片.jpg"  width="600" align="center">
